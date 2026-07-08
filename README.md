@@ -1,3 +1,3 @@
 # new project
  
- this project was  reated from local systeam.
+ this project was  created from local systeam.
